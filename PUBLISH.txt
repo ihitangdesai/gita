@@ -1,0 +1,1 @@
+Upload these extracted files to a public GitHub repository root. Keep assets/ intact. In Settings > Pages choose Deploy from a branch, main, /(root). Do not upload the ZIP alone. No API keys, database, or server are needed.
